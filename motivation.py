@@ -1,3 +1,4 @@
+#Estas hermosas funciones las vimos el 21 de enero del 2026, donde nos eneseñaron estos algoritmos, si
 import random
 
 def generate_random_list(length, min_val=-10, max_val=10):
